@@ -1,0 +1,10 @@
+hello world
+a=10
+b=20
+print(a+b)
+
+
+
+https://github.com/lishu2018/gathri.git
+
+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
